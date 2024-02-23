@@ -9,7 +9,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "6704979486:AAFwGWZZ4eLOErCuLQafTFypRdsI
 
 PASS_DB = int(os.environ.get("PASS_DB", "721"))
 
-sudo_group = -1002005463437
+sudo_group = -1002042674964
 sudo_user = 1403488629
 log_channel = -1002094254723
 
